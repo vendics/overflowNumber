@@ -1,9 +1,9 @@
 #include <stdio.h>
+#include "libft/libft.h"
 
 int		main(int argc, const char **argv)
 {
-	// if (argc > 1)
-	// 	printf("%d\n", argc);
-	printf("%s\n", argv[1]);
+	ft_putchar('x');
+	printf("%s\n", "ssss");
 	return (0);
 }
